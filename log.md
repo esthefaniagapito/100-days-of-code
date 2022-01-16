@@ -6,7 +6,7 @@
 
 **Thoughts:** I'm still having problems to deal with the sintax, although my logic to solve the problems are having a good improvement.
 
-**Link to work:** [Kotlin Exercises](https://github.com/esthefaniagapito/only-exercises-kotlin)
+**Link to work**[Kotlin exercises](https://github.com/esthefaniagapito/only-exercises-kotlin)
 
 ### Day 2: January 15, 2022
 
@@ -19,5 +19,11 @@ Support Material
 2. [If-Else Expression in Kotlin](https://www.baeldung.com/kotlin/if-else-expression#:~:text=The%20if%2Delse%20statement%20contains,if%20the%20condition%20is%20false.)
 
 **Link to work:** [Kotlin Exercises](https://github.com/esthefaniagapito/only-exercises-kotlin)
+
+### Day 3: January 16, 2022
+
+**Thoughts:** None was done today, I've to work in others projects.
+
+
 
 
